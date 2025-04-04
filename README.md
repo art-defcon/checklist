@@ -12,12 +12,16 @@ Zug-Zug Checklist is designed to be the simplest way to:
 - 📊 Track progress with a visual completion bar
 - 📱 Use seamlessly on any device
 
+![Main Interface](https://github.com/art-defcon/checklist/blob/main/public/zugzug_main.png)
+
 Perfect for:
 - 🛒 Shopping lists
 - 📝 Daily to-dos
 - 🏗️ Project tasks
 - 🎉 Event planning
 - ...and anything else you need to organize!
+
+![Checklist Example](https://github.com/art-defcon/checklist/blob/main/public/zugzug_list.png)
 
 ## Why You'll Love It
 
